@@ -7,11 +7,6 @@
 
 <html lang="en-US">
 <head>
-<meta property="og:url" content="https://lilo.qodeinteractive.com/little-heroes/" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Little Heroes" />
-<meta property="og:description" content="Get Your Nanny 1. Happy Baby Lorem ipsum dolor sit amet velit , elitni legro int dolor. 2. Nurturing Lorem ipsum dolor sit amet velit , elitni legro int dolor. 3. Babysitting Lorem ipsum dolor sit amet velit , elitni [...]" />
-<meta property="og:image" content="" />
 <meta charset="UTF-8" />
 <link rel="profile" href="https://gmpg.org/xfn/11" />
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
@@ -140,7 +135,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mkdf-position-left"><div class="mkdf-position-left-inner">
 <div class="mkdf-mobile-logo-wrapper">
 <a itemprop="url" href="https://lilo.qodeinteractive.com/" style="height: 40px">
-<img itemprop="image" src="https://lilo.qodeinteractive.com/wp-content/themes/lilo/assets/img/logo.png" alt="Mobile Logo" />
+<img src="https://lilo.qodeinteractive.com/wp-content/themes/lilo/assets/img/logo.png" alt="Mobile Logo" />
 </a>
 </div>
 </div>
@@ -603,7 +598,8 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPr
 var mkdfGlobalVars = {"vars":{"mkdfAddForAdminBar":0,"mkdfElementAppearAmount":-100,"mkdfAjaxUrl":"https:\/\/lilo.qodeinteractive.com\/wp-admin\/admin-ajax.php","mkdfStickyHeaderHeight":0,"mkdfStickyHeaderTransparencyHeight":70,"mkdfTopBarHeight":0,"mkdfLogoAreaHeight":0,"mkdfMenuAreaHeight":100,"mkdfMobileHeaderHeight":70}};
 var mkdfPerPageVars = {"vars":{"mkdfMobileHeaderHeight":70,"mkdfStickyScrollAmount":0,"mkdfHeaderTransparencyHeight":100,"mkdfHeaderVerticalWidth":0}};
 /* ]]> */
-
+</script>
+<script src="https://lilo.qodeinteractive.com/wp-content/cache/minify/12608.js"></script>
 </body>
 </html>
 
